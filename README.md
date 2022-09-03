@@ -1,16 +1,19 @@
-# jb5
+# Random Words & Infinite ListView
 
-A new Flutter project.
+## Praktikum 1 Installation Fresh Flutter
 
-## Getting Started
+<img src="/sss/1.png" title="Screenshot 1"/>
+Flutter Create dan percobaan menggunakan library english_words untuk mengenerate kata random dan menampilkannya di body.
 
-This project is a starting point for a Flutter application.
+## Praktikum 2 Random Words (english_words lib)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="/sss/2.png" title="Screenshot 2"/>
+Pembuatan class RandomWords() dan melakukan import dan pemanggilan pada class tersebut di main.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 3 Infinite ListView Random Words
+<img src="/sss/3.png" title="Screenshot 3"/>
+Pembuatan infinite ListView yang mana akan tergenerate 10 kata random baru setiap melakukan scroll dan melewati index tertentu sehingga menjadi indefinite. Syntax i ~/ 2 membagi i dengan 2 dan mengembalikan sebagai hasil integer. Untuk baris ganjil akan ditambahkannya Divider guna memberi batas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Random Words & Infinite ListView
+
+Random words using english_words lib.
